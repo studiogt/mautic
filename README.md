@@ -1,6 +1,6 @@
 # Integração em PHP entre formulários próprios de sites com um formulário Mautic 
 
-Crie o formulário no Mautic com os campos desejados (conforme exemplo acima). Após criar o formulário, faça as seguintes inserções no seu formulário em PHP já existente.
+Crie o formulário no Mautic com os campos desejados. Após criar o formulário, faça as seguintes inserções no seu formulário em PHP já existente.
 
 Insira essa biblioteca no seu formulário já existente
 require_once("mautic.php");
