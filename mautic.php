@@ -5,7 +5,7 @@
  * @param  array   $data   The data submitted by your form
  * @param  integer $formId Mautic Form ID
  * @param  string  $ip     IP address of the lead
- * @return boolean
+ * @return boolean 
  
  Example usage:
 
